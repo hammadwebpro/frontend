@@ -1,2 +1,2 @@
 # frontend
-projects based on html css js
+Working with projects based on html css js
